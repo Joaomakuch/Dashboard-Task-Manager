@@ -22,8 +22,15 @@ Antes de rodar o código, abra o terminal e instale os seguintes comandos
 
 ```bash
 # Linux
-$ python get-pip.py
+$ python3 get-pip.py
 
 # Windows
 C:> py get-pip.py
+```
+```bash
+# Linux
+$ pip3 install psutil
+
+# Windows
+C:> pip install psutil
 ```
