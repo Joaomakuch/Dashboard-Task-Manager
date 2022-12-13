@@ -18,11 +18,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-instalar
+Antes de rodar o código, abra o terminal e instale os seguintes comandos
+
 ```bash
 # Linux
 $ python get-pip.py
 
-#Windows
+# Windows
 C:> py get-pip.py
 ```
