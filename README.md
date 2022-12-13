@@ -27,10 +27,33 @@ $ python3 get-pip.py
 # Windows
 C:> py get-pip.py
 ```
+Instalando as bibliotecas necessárias para o funcionamento do código
+
 ```bash
 # Linux
 $ pip3 install psutil
 
 # Windows
 C:> pip install psutil
+```
+```bash
+# Linux
+$ pip3 install matplotlib
+
+# Windows
+C:> pip install matplotlib
+```
+```bash
+# Linux
+$ pip3 install tk
+
+# Windows
+C:> pip install tk
+```
+```bash
+# Linux
+$ pip3 install platform
+
+# Windows
+C:> pip install platform
 ```
