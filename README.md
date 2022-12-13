@@ -57,3 +57,8 @@ $ pip3 install platform
 # Windows
 C:> pip install platform
 ```
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Python](https://www.python.org)
